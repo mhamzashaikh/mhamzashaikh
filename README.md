@@ -6,9 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhamzashaikh&label=Profile%20views&color=0e75b6&style=flat" alt="mhamzashaikh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhamzashaikh" alt="mhamzashaikh" /></a> </p>
 
-- 📫 How to reach me **hamzashaikhwork@gmail.com**
+- 🌱 Learning TypeScript, mastering React ⚡️
+- 💡 Ask me anything about JavaScript or React!
+- 💼 Any Freelance opportunities? Reach out me via linkedin! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
