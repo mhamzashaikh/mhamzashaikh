@@ -8,7 +8,7 @@
 
 
 - 🌱 Learning TypeScript, Mastering React ⚡️
-- 💡  Ask me anything about JavaScript or React!
+- 💡 Ask me anything about JavaScript or React!
 - 💼 Any Freelance opportunities? Reach out me via email! 
 
 <h3 align="left">Connect with me:</h3>
