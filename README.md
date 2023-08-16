@@ -9,7 +9,7 @@
 
 - 🌱 Learning TypeScript, Mastering React ⚡️
 - 💡 Ask me anything about JavaScript or React!
-- 💼 Any Freelance opportunities? Reach out me via email! 
+- 💼 Any Freelance opportunities? Reach out me via [email](mailto:hamzashaikhwork@gmail.com) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
