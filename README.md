@@ -1,15 +1,15 @@
 ![Muhammad hamza shaikh 1](https://user-images.githubusercontent.com/79870979/230684091-35fc369c-fd58-4fe4-9bdb-deb3fdd4bda7.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Shaikh</h1>
-<h3 align="center"> A Self-Motivated Software Engineer & a passionate MERN Stack developer</h3>
+<h3 align="center"> A Self-Motivated Software Engineer & a passionate Full Stack developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhamzashaikh&label=Profile%20views&color=0e75b6&style=flat" alt="mhamzashaikh" /> </p>
 
 
-- 🌱 Learning TypeScript, Mastering React ⚡️
-- 💡 Ask me anything about JavaScript or React!
-- 💼 Any Freelance opportunities? Reach out me via [email](mailto:hamzashaikhwork@gmail.com) 
+- 🌟 Expert in React, React Native, Next js, Node js & Full-Stack Development ⚡️
+- 💡 Ask me anything about JavaScript, React, Next.js, React Native, or web & mobile app development
+- 🚀 Passionate about building modern websites and mobile apps that make an impact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
